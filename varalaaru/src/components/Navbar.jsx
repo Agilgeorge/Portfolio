@@ -1,4 +1,4 @@
-import wojak from "../assets/wojak.jpg"
+
 import {FaLinkedin} from "react-icons/fa";
 import {FaGithub} from "react-icons/fa";
 import {FaDiscord} from "react-icons/fa";
