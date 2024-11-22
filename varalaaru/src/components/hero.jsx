@@ -14,7 +14,7 @@ const Hero = () => {
             </div>
              <div className="w-full lg:w-1/2 lg:p-8">
              <div className="flex justify-center">
-                <img  className=" h-80 w-80  mt-4" src={wojak} alt="agil"/>
+                <img  className=" h-80 w-80 rounded-2xl mt-4" src={wojak} alt="agil"/>
              </div>
 
              </div>
