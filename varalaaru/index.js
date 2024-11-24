@@ -1,7 +1,7 @@
 import saalai from "../assets/saalai.png";
 import rider from "../assets/rider.png";
 import ikigai from "../assets/ikigai.png";
-import altair from "../assets/altair.png";
+import Altair from "../assets/Altair.png";
 import otaku from "../assets/otaku.png.png";
 
 export const PROJECTS = [
@@ -23,20 +23,26 @@ export const PROJECTS = [
     title: "Otaku-Hub",
     image: otaku,
     description:
-      "",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "A platform designed for anime enthusiasts to connect, shop for anime merchandise, stay updated with the latest anime news, and share their thoughts through blogs.",
+    technologies: ["OpenWeaver Studio", "Photoshop", "Figma"],
   },
   {
-    title: "Blogging Platform",
-    image: project4,
+    title: "Ikigai",
+    image: ikigai,
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["Framer", "CSS", "MongoDB", "React"],
+  },
+  {
+    title: "Altair-Disease prediction",
+    image: Altair,
+    description:
+      "A data-driven project designed to predict multiple diseases using blood sample data.",
+    technologies: ["RapidMiner", "Kaggle", "Pitch"],
   },
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "#476,Valluvar Nagar,Ennore,chennai-57 ",
+  email: "mailtoagilgeorge24@gmail.com",
 };
