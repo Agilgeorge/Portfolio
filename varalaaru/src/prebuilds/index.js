@@ -2,7 +2,7 @@ import saalai from "../assets/saalai.png";
 import rider from "../assets/rider.png";
 import ikigai from "../assets/ikigai.png";
 import Altair from "../assets/Altair.png";
-import otaku from "../assets/otaku.png.png";
+import otaku from "../assets/otaku.png";
 
 export const PROJECTS = [
   {
@@ -37,7 +37,7 @@ export const PROJECTS = [
     title: "Altair-Disease prediction",
     image: Altair,
     description:
-      "A data-driven project designed to predict multiple diseases using blood sample data.",
+      "A data-driven project designed to predict multiple diseases using blood sample dataset.",
     technologies: ["RapidMiner", "Kaggle", "Pitch"],
   },
 ];
