@@ -13,7 +13,7 @@ const Hero = () => {
                 <div className="flex flex-col items-center lg:items-start">
                   <motion.h1  variants = {container(0)} initial="hidden" animate="visible" className="pb-16 text-xl font-thin tracking-tight lg:mt-16 lg:text-8xl">Akhil George</motion.h1>
                   <motion.span variants = {container(0.5)} initial="hidden" animate="visible" className="bg-gradient-to-r from-blue-500 via-green-500 to-purple-500 bg-clip-text text-4xl tracking-light text-transparent">Web and App developer</motion.span>
-                  <motion.p variants = {container(1)} initial="hidden" animate="visible" className="my-2 max-w-xl py-6 font-light tracking-lighter"> Aspiring Web and App Developer with a keen eye for design and a strong foundation in 
+                  <motion.p variants = {container(1)} initial="hidden" animate="visible" className="my-2 max-w-xl py-6 font-light tracking-lighter "> Aspiring Web and App Developer with a keen eye for design and a strong foundation in 
                   programming languages and frameworks. Passionate about learning new technologies,collaborating with diverse teams, and driving innovation in development projects. Proven track
                   record of success in competitive hackathons and internships.</motion.p>
               </div>

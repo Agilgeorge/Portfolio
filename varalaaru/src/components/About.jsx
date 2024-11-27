@@ -23,7 +23,7 @@ const About = () => {
             initial={{ opacity: 0, x: 100 }}
             transition={{ duration: 0.5 }} className="w-full lg:w-1/2">
             <div className="flex justify-center lg:justify-start">
-                <p className="my-2 max-w-xl py-6">
+                <p className="my-2 max-w-xl py-20 font-overpass text-lg">
               
 
 I am a passionate <span className="text-blue-500">Web and App developer</span>  skilled in creating responsive and user-friendly applications using cutting-edge technologies like <span className="text-blue-500">React</span> ,<span className="text-blue-500">Node.js</span> , and <span className="text-blue-500">Flutter</span>. I specialize in crafting clean, maintainable code and designing engaging user experiences.  
