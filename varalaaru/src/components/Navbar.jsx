@@ -15,7 +15,7 @@ const Navbar = () => {
           <motion.p  
           whileInView={{ opacity: 1, y: 0 }}
       initial={{ opacity: 0, y: 100 }}
-      transition={{ duration: 1}} className="text-base font-bebas">"Throughout Heaven and Earth, I alone am the honored One"</motion.p>
+      transition={{ duration: 1}} className="text-base ">"Throughout Heaven and Earth, I alone am the honored One"</motion.p>
         </div>
         <div className="m-8 flex items-center justify-center gap-4 text-xl">
           <a href="https://www.linkedin.com/in/anthony-george-agil-934121249/"><FaLinkedin/> </a>
