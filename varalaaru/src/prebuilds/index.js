@@ -30,7 +30,7 @@ export const PROJECTS = [
     title: "Ikigai",
     image: ikigai,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      " Inspired from the Ikigai-The book for Happiness and Longevity, A platform to track our day to day ikigai towards our goals.",
     technologies: ["Framer", "CSS", "MongoDB", "React"],
   },
   {
